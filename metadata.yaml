@@ -1,0 +1,37 @@
+_repo: Recollections-The-Reminiscences-of-the-Busy-Life-of-One-Who-Has-Played-the-Varied-Parts-of-Sa__67673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bullen, Frank Thomas
+    alias: Bullen, Frank T. (Frank Thomas)
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '616'
+    url: http://www.gutenberg.org/2009/agents/616
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Thomas_Bullen
+description: ''
+gutenberg_issued: '2022-03-21'
+identifiers:
+  gutenberg: '67673'
+  lccn: '15015342'
+language: en
+pgterms:marc904: https://archive.org/details/recollectionsrem00bull
+pgterms:marc905: 20200218230314bullen
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :Seeley, Service and Co. Limited,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lecturers -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Bullen, Frank Thomas, 1857-1915'
+- GITenberg
+title: "Recollections\r\nThe Reminiscences of the Busy Life of One Who Has Played\
+  \ the Varied Parts of Sailor, Author & Lecturer"
+url: http://www.gutenberg.org/ebooks/67673
